@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "transfer": {
+      "commandName": "Project",
+      "commandLineArgs": "transfer.dll"
+    }
+  }
+}
